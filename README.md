@@ -11,7 +11,7 @@ npm install google-search
 
 ## Usage
 ```js
-var GoogleSearch = require('../lib/google-search');
+var GoogleSearch = require('google-search');
 var googleSearch = new GoogleSearch({
   key: 'YOUR_API_KEY',
   cx: 'YOUR_CX'
