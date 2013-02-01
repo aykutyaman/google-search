@@ -1,7 +1,7 @@
 {
     "name": "google-search",
     "description": "node.js client for google search API",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "http://github.com/aykutyaman/google-search",
     "author": "Aykut Yaman <yaman.ayk@gmail.com>",
     "repository": {

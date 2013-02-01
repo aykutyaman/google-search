@@ -1,1 +1,1 @@
-module.exports = require('.lib/google-search');
+module.exports = require('./lib/google-search');
